@@ -1,0 +1,110 @@
+.h1{
+    color:red;
+    text-decoration: line-through;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px blue;
+}
+.p1{
+    color: blue;
+    text-decoration: overline;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 15px 5px red;
+}
+.b{
+    color: green;
+    text-decoration: underline;
+    text-align: right;
+    text-transform: lowercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 15px 5px yellow;
+}
+.h2{
+    color:yellow;
+    text-decoration: line-through;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px green;
+}
+.h3{
+    color:aqua;
+    text-decoration: line-through;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px pink;
+}
+.h4{
+    color:rgb(203, 38, 236);
+    text-decoration: line-through;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px pink;
+}
+.h5{
+    color:rgb(255, 0, 179);
+    text-decoration: line-through;
+    text-align: right;
+    text-transform: uppercase;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px rgb(221, 17, 51);
+}
+.h6{
+    color:rgb(157, 202, 159);
+    text-decoration: underline;
+    text-align: left;
+    text-transform: lowercase;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px rgb(77, 184, 216);
+}
+.p2{
+    color:rgb(29, 139, 167);
+    text-decoration: overline;
+    text-align: right;
+    text-transform: uppercase;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px rgb(163, 216, 77);
+}
+.p3{
+    color:rgb(23, 19, 82);
+    text-decoration: line-through;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Arial;
+    text-shadow: 15px 15px 5px rgb(30, 255, 188);
+}
+
+
+div{
+    background-color: aqua;
+    border: 15px solid rgb(255, 0, 0);
+    border-bottom: 15px solid blue;
+    border-left: 15px solid rgb(142, 172, 61);
+    border-right: 15px solid yellow;
+    border-radius: 10px;
+}
+.d1{
+    background-color: rgb(30, 255, 0);
+    border: 20px dotted rgb(162, 0, 255);
+    border-radius: 20px;
+}
+.d2{
+    background-color: rgb(255, 187, 0);
+    border: 5px dashed rgb(21, 70, 175);
+    border-radius: 30px;
+}
+.d3{
+    background-color: rgb(23, 143, 73);
+    border: 10px groove rgb(179, 41, 41);
+    border-radius: 20px;
+}
+.d4{
+    background-color: rgb(145, 231, 87);
+    border: 30px double rgb(24, 167, 79);
+    border-radius: 40px;
+}
